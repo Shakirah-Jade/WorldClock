@@ -23,7 +23,7 @@ class Home extends StatelessWidget {
                 },
                 icon: Icon(Icons.edit_location),
                 label: Text('Edit Location'),
-              )
+              ),
             ],
           ),
         ),
